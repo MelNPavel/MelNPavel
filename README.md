@@ -1,8 +1,8 @@
-# Привет меня зовут Павел!
+## Привет меня зовут Павел!
 
 ## Я Junior Frontend-разработчик
 
-Мой стек
+### Мой стек
 <p align="left"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -15,3 +15,6 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
  </p>
+
+ ### Есть цель попасть в команду единомышленников которые являются командой.
+ ### Убежден что один в поле не воет. А вот командой можно попробовать.....
