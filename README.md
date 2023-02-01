@@ -1,8 +1,14 @@
 ## Привет меня зовут Павел!
 
-## Я Junior Frontend-разработчик
+Я Junior Frontend-разработчик. 
+Хочу создавать дружелюбные и интуитивно понятные приложения. На данный момент окнчил курс <a href="https://practicum.yandex.ru/profile/web/">Веб-разработки</a>
 
-### Мой стек (мое кунгфу)
+## Цели
+- хочу сменить основную работу и найти новую
+- развиваться и самореализовываться в веб-разработке
+- попасть в команду единомышленников
+
+### Стек
 <p align="left"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -16,5 +22,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
  </p>
 
- ### Есть цель попасть в команду единомышленников которые являются командой.
- ### Убежден что один в поле не воет. А вот командой можно попробовать.....
+ ### Контакты
+ - https://t.me/MPavelNick;
+ - https://pavenmel@yandex.ru
