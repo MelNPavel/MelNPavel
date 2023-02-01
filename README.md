@@ -2,7 +2,7 @@
 
 ## Я Junior Frontend-разработчик
 
-### Мой стек
+### Мой стек (мое кунгфу)
 <p align="left"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
